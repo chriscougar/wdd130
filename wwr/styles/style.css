@@ -35,7 +35,6 @@ nav a:hover {
 .book, .join {
     background-color: aqua;
     text-decoration: none;
-    text-align: center;
 }
 .book:hover, .join:hover {
     background-color: aquamarine;
