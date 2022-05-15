@@ -20,30 +20,31 @@ main section {
 }
 #background {
     height: 725px;
-    background-color: blueviolet;
+    background-color: #84a2f5;
 }
 body {
-    background-color: azure;
+    background-color: #E0B997;
 }
 header {
     background-color: rgba(20,30,13, .7);
 }
 nav a:hover {
-    background-color: blue;
+    background-color: #A76D5E;
     color: aliceblue;
 }
 .book, .join {
     background-color: aqua;
     text-decoration: none;
+    text-align: center;
 }
 .book:hover, .join:hover {
     background-color: aquamarine;
 }
 .msg {
-    background-color: brown;
+    background-color: #F2AA32;
 }
 footer {
-    background-color: blue;
+    background-color: #84A2F5;
 }
 .home-title {
     color: aliceblue;
