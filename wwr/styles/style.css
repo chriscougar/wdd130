@@ -50,7 +50,10 @@ footer {
     color: aliceblue;
 }
 h4 {
-    color: antiquewhite;
+    color: black;
+}
+h1 {
+    color: black;
 }
 .msg h2 {
     color: black;
