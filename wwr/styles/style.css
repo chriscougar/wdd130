@@ -33,7 +33,7 @@ nav a:hover {
     color: aliceblue;
 }
 .book, .join {
-    background-color: aqua;
+    background-color: #84A2F5;
     text-decoration: none;
     text-align: center;
 }
@@ -50,9 +50,6 @@ footer {
     color: aliceblue;
 }
 h4 {
-    color: black;
-}
-h1 {
     color: black;
 }
 .msg h2 {
