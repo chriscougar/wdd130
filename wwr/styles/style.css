@@ -6,8 +6,10 @@ div {
 #content {
     margin: 0 auto;
 }
-#logo_link {
+.logo {
     width: 80px;
+}
+#logo_link {
     padding-top: 5px;
     justify-self: center;
     align-self: center;
@@ -69,7 +71,7 @@ nav {
 }
 
 nav a:hover {
-    background-color: #A76D5E;
+    background-color: #e0b997;
     color: aliceblue;
 }
 #home-grid {
@@ -92,6 +94,7 @@ nav a:hover {
     grid-row: 2/3;
 }
 #background {
+    background-color: white;
     grid-column: 1/11;
     grid-row: 4/9;
 }
@@ -102,14 +105,15 @@ nav a:hover {
     box-shadow: 5px 5px 10px #6f7364;
 }
 .msg {
-    background-color: #6f7364;
+    background-color: #F2AA32;
+    line-height: 1.5em;
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #6f7364;
 }
 .book, .join {
-    background-color: #84A2F5;
+    background-color: #e0b997;
     text-decoration: none;
     text-align: center;
     font-size: 18px;
@@ -118,15 +122,10 @@ nav a:hover {
     border-radius: 5px;
 }
 .book:hover, .join:hover {
-    background-color: aquamarine;
-}
-.msg {
-    background-color: #F2AA32;
-    line-height: 1.5em;
-    padding: 35px;
+    background-color: #a76d5e;
 }
 footer {
-    background-color: #84A2F5;
+    background-color: #a76d5e;
     padding: 25px 50px;
     margin-top: 200px;
     display: flex;
@@ -165,6 +164,9 @@ h4 {
 .rivers-card, .camping-card, .rapids-card {
     margin: 200px 0;
 }
+footer p a:hover {
+    text-decoration: underline;
+}
 footer h3 {
     color: aliceblue;
 }
@@ -173,7 +175,7 @@ footer a {
     text-decoration: none;
 }
 footer a:hover {
-    color: aquamarine;
+    color: #d9c2a3;
 }
 .icon {
     width: 80px;
