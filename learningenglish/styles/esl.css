@@ -26,7 +26,7 @@ header {
     display: grid;
     grid-template-columns: 150px auto;
     text-align: center;
-    background-color: #D4AC0D;
+    background-color: #da627d;
 }
 body{
     max-width: 1200px;
@@ -39,7 +39,7 @@ nav {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20% 20%;
     grid-template-rows: 20% 20% 20% 20% 20% 20%;
-    background-color:#D4AC0D;
+    background-color:#da627d;
     line-height: 3em;
     font-size: 1.2em;
 }
@@ -142,7 +142,7 @@ h1 {
     text-align: justify;
 }
 footer {
-    background-color: #D4AC0D;
+    background-color: #da627d;
     display: flex;
     justify-content: space-around;
     align-items: center;
