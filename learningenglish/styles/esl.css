@@ -239,7 +239,7 @@ h1 {
     grid-row: 1;
     text-align: center;
     padding-top: 10%;
-    padding-right: 20%;
+    padding-right: 30%;
 }
 .page-img-4 {
     grid-row: 2;
@@ -250,7 +250,7 @@ h1 {
     grid-row: 4;
     grid-column-start: 1;
     grid-column-end: 6;
-    padding-top: 10%;
+    padding-top: 5%;
     text-align: justify;
 }
 footer {
